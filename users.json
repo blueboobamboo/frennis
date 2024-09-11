@@ -38,7 +38,7 @@
             "is_staff": true,
             "is_bartender": true,
             "is_security": true,
-            "is_media": false,
+            "is_media": true,
             "notes": "test",
             "is_permaban": false,
             "ban_start_date": "2024-09-04 03:43:13",
